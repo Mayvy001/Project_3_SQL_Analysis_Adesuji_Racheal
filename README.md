@@ -76,3 +76,6 @@ These steps helped improve data quality and ensured that the insights generated 
 ## CONCLUSION
 This analysis provided valuable insights into sales performance, customer behavior, and order outcomes. The business generated a total revenue of **1,264,761.96** with a healthy average order value of **1,053.97**. Email emerged as the most effective referral source, while Chairs were the most frequently ordered product. Online payments were the most preferred payment method, whereas Credit Card transactions generated the highest revenue. The analysis also revealed higher cancellation rates among coupon-assisted orders and Credit Card payments. Additionally, a considerable number of orders remained pending or were cancelled, indicating opportunities for process improvement. Overall, the findings can support data-driven decisions to improve customer experience, optimize marketing efforts, and drive business growth.
 
+
+
+# Author: Adesuji Racheal_DecodeLabs_Intern
